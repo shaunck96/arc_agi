@@ -32,10 +32,6 @@ Before running the ARC AGI Solver, ensure that your environment is correctly set
 1. **Clone the Repository and Install Dependencies:**
 
     ```bash
-    # Clone the LLaVA repository
-    git clone https://github.com/haotian-liu/LLaVA.git
-    cd LLaVA
-
     # Upgrade pip and install required packages
     pip install --upgrade pip
     pip install openai==0.28
