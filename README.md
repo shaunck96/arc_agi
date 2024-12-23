@@ -38,9 +38,6 @@ Before running the ARC AGI Solver, ensure that your environment is correctly set
 
     # Upgrade pip and install required packages
     pip install --upgrade pip
-    pip install .
-    pip install langchain langchain_openai
-    pip install repl
     pip install openai==0.28
     ```
 
